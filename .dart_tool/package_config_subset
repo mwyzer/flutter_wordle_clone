@@ -54,6 +54,10 @@ path
 2.12
 file:///Users/wyzer/development/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/
 file:///Users/wyzer/development/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/lib/
+riverpod
+2.14
+file:///Users/wyzer/development/flutter/.pub-cache/hosted/pub.dartlang.org/riverpod-2.0.0-dev.3/
+file:///Users/wyzer/development/flutter/.pub-cache/hosted/pub.dartlang.org/riverpod-2.0.0-dev.3/lib/
 source_span
 2.12
 file:///Users/wyzer/development/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1/
@@ -62,6 +66,10 @@ stack_trace
 2.12
 file:///Users/wyzer/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0/
 file:///Users/wyzer/development/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0/lib/
+state_notifier
+2.12
+file:///Users/wyzer/development/flutter/.pub-cache/hosted/pub.dartlang.org/state_notifier-0.7.2+1/
+file:///Users/wyzer/development/flutter/.pub-cache/hosted/pub.dartlang.org/state_notifier-0.7.2+1/lib/
 stream_channel
 2.12
 file:///Users/wyzer/development/flutter/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0/

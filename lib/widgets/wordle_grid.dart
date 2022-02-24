@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:wordle_clone/widgets/wordle_row.dart';
 
 const rows = 6;
+const wordsize = 5;
 
 class WordleGrid extends StatelessWidget {
   const WordleGrid({Key? key}) : super(key: key);
@@ -13,12 +14,12 @@ class WordleGrid extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          WordleRow(),
-          WordleRow(),
-          WordleRow(),
-          WordleRow(),
-          WordleRow(),
-          WordleRow(),
+          WordleRow(wordsize: 5,),
+          WordleRow(wordsize: 5,),
+          WordleRow(wordsize: 5,),
+          WordleRow(wordsize: 5,),
+          WordleRow(wordsize: 5,),
+          WordleRow(wordsize: 5,),
         ],
       ),
     );
